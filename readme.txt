@@ -1,2 +1,2 @@
-this is my first readme txt
-yoyoyo.
+Git is a distributed version control system.
+Git is free software.
